@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name - John
+2. Adjective - ambitious
+3. Adjective - adventurous
+4. Color - white
+5. Month - august
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
