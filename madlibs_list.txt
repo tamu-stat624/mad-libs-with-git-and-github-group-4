@@ -3,11 +3,11 @@
 3. Adjective - adventurous
 4. Color - white
 5. Month - august
-6. Number 
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number - 3
+7. Noun (Plural) - Dogs
+8. Noun (Plural) - Lions
+9. Noun - Bruce
+10. Room Name - Groom
 11. Liquid
 12. Adjective
 13. Material
