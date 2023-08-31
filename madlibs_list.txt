@@ -8,12 +8,12 @@
 8. Noun (Plural) - Lions
 9. Noun - Bruce
 10. Room Name - Groom
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+11. Liquid - Mercury
+12. Adjective - Scary
+13. Material - Cotton
+14. Activity - Biking
+15. Adverb - Cautiously
+16. Number - 36
 17. Unit of Time
 18. Different Activity
 19. Adjective
